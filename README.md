@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 Hi there! 👋 I'm a passionate and curious individual with a love for innovation, technology, and problem-solving. I enjoy exploring the intersections of AI/ML 🤖, space exploration 🪐, and sustainable systems 🌱 while bringing creative ideas to life. Here's a snapshot of what I do:<br><br>🔬 AI/ML Projects: From translating speech to Indian Sign Language (ISL) 🧏‍♀️ using NLP, Flutter, and Blender, to building CNN models for real-time arrow detection 🏹, I'm always up for AI challenges.<br>🌍 Sustainability Enthusiast: Worked on classifying biodegradable materials ♻️ and integrating IoT devices for environmental applications.<br>🖥️ Web Development: Created dynamic, interactive websites with parallax designs 🌌, live weather updates 🌦️, and engaging user interfaces.<br>🤖 Robotics & ROS2: Experimenting with robotic systems like guiding a turtle to specific goals in Turtlesim 🐢 or collaborating on navigation projects.<br><br>I'm always eager to learn, innovate, and collaborate on exciting projects. Feel free to reach out, and let's build something amazing together! 🌟 
 
@@ -66,18 +66,5 @@ Hi there! 👋 I'm a passionate and curious individual with a love for innovatio
 
 ---
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Archit-175/Crawlers" title="Crawlers"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=DocLense&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ROHAN842/Movie-Streaming-Website" title="Movie-Streaming-Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Movie-Streaming-Website&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ROHAN842/CS-Hut" title="CS-Hut"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=CS-Hut&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ROHAN842/Musicophilia" title="Musicophilia"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Musicophilia&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br><br><br><br><br><br>
-<h4 align="center">
-  <a href="https://github.com/Nilangbhuva?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+
 
