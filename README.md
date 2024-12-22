@@ -1,3 +1,9 @@
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nilang+Bhuva....;AI/ML+Enthitusit;Web+Dev+Flutter!&center=true&size=30">
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ROHAN842.ROHAN842&style=flat-square&color=0088cc)
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 # 💫 About Me:
 Hi there! 👋 I'm a passionate and curious individual with a love for innovation, technology, and problem-solving. I enjoy exploring the intersections of AI/ML 🤖, space exploration 🪐, and sustainable systems 🌱 while bringing creative ideas to life. Here's a snapshot of what I do:<br><br>🔬 AI/ML Projects: From translating speech to Indian Sign Language (ISL) 🧏‍♀️ using NLP, Flutter, and Blender, to building CNN models for real-time arrow detection 🏹, I'm always up for AI challenges.<br>🌍 Sustainability Enthusiast: Worked on classifying biodegradable materials ♻️ and integrating IoT devices for environmental applications.<br>🖥️ Web Development: Created dynamic, interactive websites with parallax designs 🌌, live weather updates 🌦️, and engaging user interfaces.<br>🤖 Robotics & ROS2: Experimenting with robotic systems like guiding a turtle to specific goals in Turtlesim 🐢 or collaborating on navigation projects.<br><br>I'm always eager to learn, innovate, and collaborate on exciting projects. Feel free to reach out, and let's build something amazing together! 🌟<br><br>👉 Check out my projects below and let's connect! 💻✨<br><br>🌱 I’m currently learning Data Science and Machine Learning 
 
